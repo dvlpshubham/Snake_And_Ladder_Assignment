@@ -31,12 +31,15 @@ public class Snake_Ladder {
     }
 
     public static void main(String[] args) {
+        int diceCount = 0;
         while (position < 100) {
             int dice = diceRoll();
             System.out.println("dice= " + dice);
+            diceCount++;
             optionCheck(dice);
             System.out.println("position = " + position);
         }
+        System.out.println("diceCount = " + diceCount);
 
     }
 
