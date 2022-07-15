@@ -7,7 +7,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Snake And Ladder UC2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Snake_Ladder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Snake_Ladder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake And Ladder UC2/com/bridgelabz/javaproject/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake And Ladder UC2/com/bridgelabz/javaproject/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Snake And Ladder UC2/com/bridgelabz/javaproject/.idea/modules.xml" beforeDir="false" />
@@ -32,12 +31,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Snake_Ladder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.javaproject.Snake_Ladder" />

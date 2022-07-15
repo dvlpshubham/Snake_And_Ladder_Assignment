@@ -18,7 +18,7 @@ public class Snake_Ladder {
     public static void optionCheck(int dice) {
         Random random = new Random();
         int option = random.nextInt(3);
-        if (option == LADDER) {
+        if ((option == LADDER) && (position + dice <= 100)) {
             position += dice;
         } else if (option == SNAKE) {
             position -= dice;
